@@ -100,12 +100,12 @@ jobs:
           CONFIG_PACKAGE_htop=y
           CONFIG_PACKAGE_wget=y
           CONFIG_PACKAGE_luci-theme-argon=y
-          CONFIG_PACKAGE_luci-app-zerotier is not set
-          CONFIG_PACKAGE_luci-app-xlnetacc is not set
-          CONFIG_PACKAGE_luci-app-jd-dailybonus is not set
-          CONFIG_PACKAGE_luci-app-uugamebooster is not set
-          CONFIG_PACKAGE_luci-app-vsftpd is not set
-          CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set
+          # CONFIG_PACKAGE_luci-app-zerotier is not set
+          # CONFIG_PACKAGE_luci-app-xlnetacc is not set
+          # CONFIG_PACKAGE_luci-app-jd-dailybonus is not set
+          # CONFIG_PACKAGE_luci-app-uugamebooster is not set
+          # CONFIG_PACKAGE_luci-app-vsftpd is not set
+          # CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set
           EOF
 
           #
